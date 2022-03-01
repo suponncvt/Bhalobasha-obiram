@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    background-color: cornflowerblue;
+}
+
+.div-one{
+    text-align: center;
+    margin: 100px auto;
+}
+
+.heading{
+    color: red;
+    font-size: 160px;
+}
+
+.pr{
+    font-size: 40px;
+    color: darkblue;
+    margin-bottom: 10px;
+    font-weight: bolder;
+}
+
+.f{
+    background-color: aquamarine;
+    border: 10px solid aquamarine;
+    border-radius: 10px;
+    margin: 0px auto;
+    height: 300px;
+    width: 786px;
+    
+}
+
+.love{
+    width: 80%;
+    border-radius: 10px;
+    margin: 10px;
+    height: 60px;
+    background-color: yellow;
+}
+
+.love::placeholder{
+    color: blue;
+    opacity: 60%;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.sub{
+    margin-bottom: 10px;
+    background-color: cadetblue;
+    width: 80%;
+    border-radius: 10px;
+}
+
+.a, .b{
+    text-decoration: none;
+    background-color: aquamarine;
+    margin: 20px;
+}
+
+.a{
+    color: darkolivegreen;
+}
